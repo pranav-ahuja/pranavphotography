@@ -1,0 +1,160 @@
+.index {
+  background-image: url(../assets/bg_img/index.jpg);
+  background-position: 50% 50%;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.logo-dark {
+  width: 35%;
+  height: auto;
+}
+
+.container-fluid{
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+.dark {
+  color: #46362F;
+  font-weight: bold;
+  letter-spacing: 3px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.3rem;
+}
+.dark:hover{
+  color: #46362F;
+}
+
+li{
+  margin-left: 2%;
+  margin-right: 5%;
+}
+
+ul{
+  position:relative;
+  left: 50%;
+}
+
+.btn-dark{
+  background-color: #46362F;
+  color: white;
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+h1{
+  color: #46362F;
+  text-align: center;
+  font-size: 5rem;
+  font-family: "Roboto" sans-serif;
+  font-weight: bold;
+  letter-spacing: 25px;
+  margin-top: 17%;
+}
+
+/* About me */
+
+.about {
+  background-image: url(../assets/bg_img/about.jpg);
+  background-position: 50% 50%;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.brown {
+  color: #815F00;
+  font-weight: bold;
+  letter-spacing: 3px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.3rem;
+}
+
+.brown:hover{
+  color: #815F00;
+}
+
+.btn-brown{
+  background-color: #815F00;
+  color: white;
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.btn-brown:hover {
+  color: white;
+  background-color: #815F00;
+}
+
+.abouth1 {
+  color: #815F00;
+  text-align: center;
+  font-size: 5rem;
+  font-family: "Roboto" sans-serif;
+  font-weight: bold;
+  letter-spacing: 25px;
+  margin-top: 15%;
+}
+
+.arrow {
+  font-size: 10rem;
+  text-align: center;
+  margin-left: 45%;
+  margin-top: 15%;
+}
+
+.det{
+  background-color: #E6D8B1;
+  width: 100%;
+  height: 1000px;
+}
+
+/* project */
+
+.project {
+  background-image: url(../assets/bg_img/project.jpg);
+  background-position: 50% 50%;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.yellow{
+  color: #FFC700;
+  font-weight: bold;
+  letter-spacing: 3px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.3rem;
+}
+
+.yellow:hover{
+  color: #FFC700;
+}
+
+.projecth1 {
+  color: #FFC700;
+  text-align: center;
+  font-size: 5rem;
+  font-family: "Roboto" sans-serif;
+  font-weight: bold;
+  letter-spacing: 25px;
+  margin-top: 15%;
+}
+
+.btn-warning{
+  color: white;
+}
+
+.btn-warning:hover{
+  color: white;
+}
+
+.det{
+  background-color: #E6D8B1;
+  width: 100%;
+  height: 1000px;
+}
